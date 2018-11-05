@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\git\\sandbox\\NuGet Samples\\src\\ClassLibrary1\\ClassLibrary1.csproj",
-      "projectName": "ClassLibrary1",
-      "projectPath": "C:\\dev\\git\\sandbox\\NuGet Samples\\src\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectUniqueName": "C:\\dev\\git\\sandbox\\NuGet Samples\\src\\ClassLibrary3\\ClassLibrary3\\ClassLibrary3.csproj",
+      "projectName": "ClassLibrary3",
+      "projectPath": "C:\\dev\\git\\sandbox\\NuGet Samples\\src\\ClassLibrary3\\ClassLibrary3\\ClassLibrary3.csproj",
       "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\git\\sandbox\\NuGet Samples\\src\\ClassLibrary1\\obj\\",
+      "outputPath": "C:\\dev\\git\\sandbox\\NuGet Samples\\src\\ClassLibrary3\\ClassLibrary3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

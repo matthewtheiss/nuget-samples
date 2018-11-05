@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\git\\sandbox\\NuGet Samples\\ClassLibrary2\\ClassLibrary2.csproj",
+      "projectUniqueName": "C:\\dev\\git\\sandbox\\NuGet Samples\\src\\ClassLibrary2\\ClassLibrary2.csproj",
       "projectName": "ClassLibrary2",
-      "projectPath": "C:\\dev\\git\\sandbox\\NuGet Samples\\ClassLibrary2\\ClassLibrary2.csproj",
+      "projectPath": "C:\\dev\\git\\sandbox\\NuGet Samples\\src\\ClassLibrary2\\ClassLibrary2.csproj",
       "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\git\\sandbox\\NuGet Samples\\ClassLibrary2\\obj\\",
+      "outputPath": "C:\\dev\\git\\sandbox\\NuGet Samples\\src\\ClassLibrary2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -200,7 +200,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/upstream-test/api/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
