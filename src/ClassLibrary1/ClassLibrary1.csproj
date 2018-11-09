@@ -4,6 +4,8 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>MyGet</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>This is a new description</Description>
+    <PackageDescription>This is a package description</PackageDescription>
   </PropertyGroup>
 
 </Project>
