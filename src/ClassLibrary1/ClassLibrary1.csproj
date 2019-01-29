@@ -1,6 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <PackageId>Matt-Assembla-Test1</PackageId>
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>MyGet</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
